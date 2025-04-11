@@ -8,14 +8,30 @@ html._14wqdluDeDnnEcg3OSLEmd .PP7LM0Ow1K5qkR8WElLpt {
     border-radius: 8px;
 }
 ._2jXHP0742MyApMUVUM8IFn._2uiDecKkKjAq7nimy3uLhG:hover {
-    border-radius: 6px;
+    border-radius: 4px;
+}
+.DesktopUI .PP7LM0Ow1K5qkR8WElLpt, ._3qIuY9S_vXm3IQS-uE9SRS .PP7LM0Ow1K5qkR8WElLpt {
+    background: none !important;
+/*    background-position-x: left;
+    background-position-y: top;
+    background-size: cover;
+    backdrop-filter: blur(40px);
+    background-repeat: no-repeat; */
 }
 
-html._14wqdluDeDnnEcg3OSLEmd body {
-    background: unset !important;
+body.ContextMenuPopupBody {
+    background-image: url('https://ftn.s-ul.eu/tqnvlfPe') !important;
+    background-size: cover !important;
+	background-position-x: left;
+    background-position-y: top;
+    backdrop-filter: blur(41px) !important;
+    background-repeat: no-repeat;
 }
-.DesktopUI .PP7LM0Ow1K5qkR8WElLpt, ._3qIuY9S_vXm3IQS-uE9SRS .PP7LM0Ow1K5qkR8WElLpt,
-.GreenEnvelopeMenu, .PP7LM0Ow1K5qkR8WElLpt,
+
+.GreenEnvelopeMenu, .PP7LM0Ow1K5qkR8WElLpt {
+    background: unset;
+}
+
 ._3pofGqV0buiKAfMPEs3_82 {
     background: color-mix(in srgb, var(--secondary-background) 95%, white);
 }

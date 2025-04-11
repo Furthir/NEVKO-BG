@@ -13,7 +13,6 @@
 	padding: 2px 0px 3px 4px;
     background: rgba(103, 112, 123, .2);
 	border-radius: 4px;
-	margin-left: 4px;
 }
 ._1bGewp3tfzqAF6fVTFFUOz .UkR3sY319PuaUNuUWks2K svg {
     margin-top: 1px;
@@ -28,7 +27,7 @@
 /*Change URL Style Bar*/
 ._1bGewp3tfzqAF6fVTFFUOz .UkR3sY319PuaUNuUWks2K ._2m_orETo6AghzAnc0sISCt {
 	border-radius: 4px !important;
-    margin-left: 6px !important;
+	margin-left: 5px !important;
 	padding: 3px 16px 2px 8px;
 }
 ._1bGewp3tfzqAF6fVTFFUOz .UkR3sY319PuaUNuUWks2K ._2m_orETo6AghzAnc0sISCt:hover {
@@ -38,14 +37,14 @@
 /*Position Page Arrows*/
 ._25lBLzuVeYAUG279up4xP8:first-child {
     position: fixed;
-    right: 44px;
+    right: 40px;
 	padding: 6px 8px 6px 8px !important;
 	transform: scale(-0.80, 0.80) !important;
 }
 ._25lBLzuVeYAUG279up4xP8 {
     position: fixed;
 	bottom: 5.5px;
-    right: 12px;
+    right: 8px;
     z-index: 1;
 	transform: scale(0.80, 0.80) !important;
 	padding: 6px 8px 6px 8px !important;

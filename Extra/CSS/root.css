@@ -1,8 +1,8 @@
 :root {
     --custom-accent: #1A9FFF;
 	
-	--main-background: #161D25;
-	--secondary-background: #222A33;
+	--main-background: none;
+	--secondary-background: none;
 	
 	--offline-status: #898989;
 	--online-status: #4CB4FF;
@@ -11,4 +11,13 @@
 	--ingameidle-status: #62813B;
 	
 	--green-color: #769C1F;
+}
+
+body[class="ContextMenuPopupBody"] {
+    background-image: url('https://ftn.s-ul.eu/U5C1wTyA');
+    background-size: cover;
+	background-position-x: left;
+    background-position-y: top;
+    backdrop-filter: blur(41px);
+    background-repeat: no-repeat;
 }

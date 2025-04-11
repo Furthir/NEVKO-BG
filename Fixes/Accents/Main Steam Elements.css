@@ -118,3 +118,9 @@
 ._39Zk32AvV5cr6g-83IVRVS {
     background: var(--accent-transparent-alt2);
 }
+
+body.DesktopUI, body[class="responsive_page"] {
+    background: url('https://ftn.s-ul.eu/tqnvlfPe') no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(2px);
+}

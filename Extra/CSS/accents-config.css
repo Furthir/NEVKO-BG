@@ -8,5 +8,11 @@
 	/*main lightly*/
 	--accent-light: color-mix(in srgb, var(--accent) 70%, white) !important;
 	/*main darky*/
-	--accent-dark: color-mix(in srgb, var(--accent) 85%, black) !important;
+	--accent-dark: none !important;
+}
+
+body[class="DesktopUI"]:not(body.ContextMenuPopupBody) {
+    background: url('https://ftn.s-ul.eu/tqnvlfPe') no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(2px);
 }
