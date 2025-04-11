@@ -1,27 +1,28 @@
 <p align="center">
-    <a href="https://github.com/dotFelixan/NEVKO-UI/">
+    <a href="https://github.com/Furthir/NEVKO-BG/">
         <picture>
-          <img src="github/logo/newnevkologo.png?raw=true" alt="nevkouilogo" width="200">
+          <img src="github/logo/pinknevkologo.png?raw=true" alt="nevkouilogo" width="200">
         </picture>
     </a>
 </p>
 
 <div align="center">
 
-# NEVKO-UI
-### Theme for Millennium for Steam
+# NEVKO-UI-BG
+### Theme for [Millennium](https://steambrew.app/) for Steam
 
-(Still Heavy WIP, Things may change.)
-
-[Telegram](https://t.me/dotSProjects) | [Discord](https://dsc.gg/dotProjects)
-
-[Use this if Discord link don't work](https://discord.com/invite/mWtYwjcFZq)
+### Certain changes are "hardcoded" so settings will not work
 
  | Current Screenshot of Theme |
 | ------------------- | 
-| ![Refresh Design](https://github.com/dotFelixan/NEVKO-UI/blob/main/github/screenshots/newscreenshotlibrary.png?raw=true) |
+| ![Library](https://ftn.s-ul.eu/bNVGJRrL?raw=true) |
 
 </div>
+
+## Fork details:
+* Some hardcoded accent colors
+* Hardcoded background image in (most) pages
+* Small Library design changes
 
 ## Current Features:
 
