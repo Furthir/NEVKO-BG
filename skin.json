@@ -331,8 +331,8 @@
     "author": ".Felixan",
     "description": "Refresh Design for Steam.",
     "github": {
-        "owner": "dotFelixan",
-        "repo_name": "NEVKO-UI"
+        "owner": "Furthir",
+        "repo_name": "NEVKO-BG"
     },
 	
 	"discord_support": {
@@ -341,7 +341,7 @@
 	
 	"header_image": "https://i.imgur.com/Qo6O7iv.png",
     "splash_image": "https://i.imgur.com/dqCDCH2.png",
-    "name": "NEVKO-UI",
+    "name": "NEVKO-BG",
     "version": "0.9.26",
     "tags": [ "Refresh", "Redesign", "Customizable", "Features", "Accents", "AMOLED", "Material You", "WIP" ]
 }
