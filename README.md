@@ -11,7 +11,7 @@
 # NEVKO-UI-BG
 ### Theme for [Millennium](https://steambrew.app/) for Steam
 
-### Certain changes are "hardcoded" so settings will not work
+### Certain changes are "hardcoded" so settings may not work
 
  | Current Screenshot of Theme |
 | ------------------- | 
@@ -23,6 +23,23 @@
 * Some hardcoded accent colors
 * Hardcoded background image in (most) pages
 * Small Library design changes
+
+## Installation
+1. Follow [this guide](https://docs.steambrew.app/users/installing) to install Millennium for your platform.
+2. Get the repo
+``` 
+git clone https://github.com/Furthir/NEVKO-BG.git
+```
+3. Move the NEVKO-BG folder into your Millennium skins folder (`%STEAM_PATH%/steamui/skins`)
+    - e.g. `~/.local/share/Steam/steamui/skins` on Linux
+
+4. Apply the skin using one of the following methods
+    - Steam Settings > Themes > Client Theme
+    - Using `steam://millennium/themes/enable/NEVKO-BG` in your browser address bar
+    - Running `millennium themes use NEVKO-BG` and `millenium apply` in a terminal
+5. Restart Steam
+
+# Original README
 
 ## Current Features:
 
@@ -79,3 +96,5 @@
 * [Juxtopposed](https://youtu.be/cDY2p1CTkPo) - Future Store Ideas & etc.
 
 * [УЧ Дизайн](https://youtu.be/k0YCMI2ntjE) - Header Design & etc.
+
+### Original NEVKO-UI creator(s)
