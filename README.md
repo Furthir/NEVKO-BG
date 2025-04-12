@@ -12,7 +12,7 @@
 ### Theme for [Millennium](https://steambrew.app/) for Steam
 
 ### Certain changes are "hardcoded" so settings may not work
-
+###### i'll get around to unhardcoding it sometime lol
  | Current Screenshot of Theme |
 | ------------------- | 
 | ![Library](https://ftn.s-ul.eu/bNVGJRrL?raw=true) |
