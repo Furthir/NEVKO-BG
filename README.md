@@ -58,7 +58,7 @@ git clone https://github.com/Furthir/NEVKO-BG.git
 * Hider: [Account Menu] - Blur Account Name
 * Hider: [Account Button] - Hide Balance
  
-## KNOW ISSUES:
+## KNOWN ISSUES:
 
 * "Low Perfomance Mode" Visual Bugs | Just disable this setting  
  
